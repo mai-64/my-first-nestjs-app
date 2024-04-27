@@ -4,7 +4,7 @@
 
 ## How to make the app un and running?
 
-Run cmd `npm run start` > Open browser with address: `http://localhost:3000/app/getAiReply`.
+Clone the app > Cd to the app's root and install the npm packages by running `npm install` > Then run cmd `npm run start` > Open browser with address: `http://localhost:3000/app/getAiReply`.
 
 --------------------------------------------------
 
